@@ -11,6 +11,7 @@ try:
 except:
   WorkHarder(self)
  ```
+<img alt="Funny tweet about testing" src=https://i.redd.it/63om2pbwk7a81.jpg width=200 height=200/>
  
 Hi there. My name is Matt Hileman. I'm an aspiring Data Scientist/Engineer. Python is my mother tongue but I enjoy working with HTML/CSS, Javascript, SQL, Excel, and C/Rust.
 
